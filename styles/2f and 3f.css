@@ -1,0 +1,62 @@
+  .b {
+    text-decoration: underline;
+    color: rgb(0, 113, 133);
+    font-size: 18px;
+  }
+
+  .b:hover {
+    color: rgb(243, 99, 10);
+  }
+
+  .b1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 8px 0px 4px 0px;
+    color: black;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+
+  .b2 {
+    font-size: 18px;
+    color: rgb(0, 118, 0);
+    margin: 4px 0px 8px 0px;
+    font-weight: bold;
+  }
+
+  .b3 {
+    background-color: rgb(255, 216, 20);
+    border: none;
+    border-radius: 18px;
+    color: black;
+    cursor: pointer;
+    height: 36px;
+    width: 105px;
+    margin-right: 12px;
+  }
+
+  .b3:hover {
+    background-color: rgb(247, 195, 7);
+  }
+
+  .b3:active {
+    opacity: 0.5;
+  }
+
+  .b4 {
+    background-color: rgb(255, 164, 28);
+    border: none;
+    border-radius: 18px;
+    color: black;
+    cursor: pointer;
+    height: 36px;
+    width: 105px;
+  }
+
+  .b4:hover {
+    background-color: rgb(242, 107, 12);
+  }
+
+  .b4:active {
+    opacity: 0.5;
+  }

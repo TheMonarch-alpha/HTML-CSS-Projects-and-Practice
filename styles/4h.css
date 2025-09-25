@@ -1,0 +1,19 @@
+  .back-button {
+    font-size: 16px;
+    margin-right: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .next-button {
+    font-size: 16px;
+    margin-right: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .search-link {
+    font-size: 18px;
+    margin-right: 8px;
+    margin-left: 8px;
+  }
