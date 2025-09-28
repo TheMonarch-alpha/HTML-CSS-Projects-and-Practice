@@ -1,0 +1,36 @@
+body {
+    width: 500px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: rgb(107, 106, 106);
+}
+
+.topic {
+    margin-bottom: 5px;;
+}
+
+.bar {
+    width: 400px;
+    border-color: black;
+    border: solid;
+    border-radius: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-width: 2px;
+}
+
+.option {
+    background-color: rgb(44, 121, 235);
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 400px;
+    border-radius: 30px;
+    border: none;
+    margin-bottom: 10px;
+}

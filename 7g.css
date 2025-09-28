@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.dp {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.search-box {
+    border: none;
+    width: 300px;
+    font-size: 20px;
+    margin-left: 7px;
+}
+
+.search-box:focus {
+    outline: none;
+}
+
+.tweet {
+    background-color: rgb(38, 160, 242);
+    color: white;
+    font-weight: bold;
+    border-radius: 50px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+.tweet:hover {
+    opacity: 0.8;
+}
+
+.tweet:active {
+    box-shadow: none;
+    margin-top: 3px;
+    margin-left: 3px;
+}
