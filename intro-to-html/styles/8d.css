@@ -1,0 +1,35 @@
+input {
+    color: rgb(167, 165, 165);
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    border-radius: 10px;
+    border-color: rgb(209, 209, 209);
+    border-style: solid;
+}
+
+.fn , .ln {
+    display: inline-block;
+    width: 100px;
+}
+
+
+.email { 
+    display: block;
+    width: 220px;
+}
+
+.sign-up {
+    width: 235px;
+    color: white;
+    background-color: rgb(48, 108, 218);
+    border: none;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+}

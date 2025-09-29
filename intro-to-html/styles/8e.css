@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.heading {
+    font-size: 25px;
+    color: black;
+    font-weight: 520;
+    margin-bottom: 20px;
+}
+
+.pickup , .destination {
+    background-color: rgb(236, 235, 235);
+    color: black ;
+    width: 280px;
+    border: none;
+    margin-bottom: 5px;
+    display: block;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.req , .sch {
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: none;
+    display: inline-block;
+}
+
+.req {
+    color: white;
+    background-color: black;
+    margin-right: 10px;
+}
+
+.sch {
+    color: black;
+    background-color: rgb(236, 235, 235);
+    font-weight: 500;
+}
