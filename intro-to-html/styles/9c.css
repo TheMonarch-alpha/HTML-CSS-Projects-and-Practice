@@ -1,0 +1,12 @@
+.text {
+    font-family: Arial;
+}
+
+.service {
+    border-width: 1px;
+    border-color: rgb(150, 150, 150);
+    border-style: solid;
+    width: 280px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
