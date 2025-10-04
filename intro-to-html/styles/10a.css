@@ -1,0 +1,75 @@
+.main-box {
+    width: 370px;
+    height: 80px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.profile-picture {
+    width: 60px;
+    margin-top: 10px;
+    margin-right: 0px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.sub-container {
+    width: 220px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.name , .descp , .nature {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.nname , .stt , .nat {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 10px;
+    padding-top: 5px;
+
+}
+
+.nname {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.stt , .nat {
+    color: grey;
+}
+
+.nat {
+    font-size: 13px;
+}
+
+.but {
+    width: 80px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.follow {
+    background-color: rgb(9, 149, 230);
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    padding-left: 14px;
+    padding-bottom: 10px;
+    padding-right: 14px;
+    padding-top: 10px;
+    border: none;
+    font-size: 16px;
+}
